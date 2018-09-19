@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\bin\Debug\SOPostSnippet.exe.config
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\bin\Debug\SOPostSnippet.exe
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\bin\Debug\SOPostSnippet.pdb
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\obj\Debug\SOPostSnippet.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\obj\Debug\SOPostSnippet.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\obj\Debug\SOPostSnippet.exe
+C:\Users\Yasin\source\repos\SOPostSnippet\SOPostSnippet\obj\Debug\SOPostSnippet.pdb
